@@ -1,0 +1,91 @@
+ img {
+        width:150px;
+        height:auto;
+        }
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background-color: #FFFCE8;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #C7E8FF;
+            background-image:url("/media/alumno/341E-EC89/Pagina emprendimiento/GDHGDFHGF.jpeg"); 
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            text-align: center ;
+            color: #5C4B2B;
+        }
+        header img {
+            max-height: 80px;
+        }
+        nav {
+            background-color: #FFE8A1; 
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #5C7692;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+            font-weight: bold;
+        }
+        main {
+            padding: 20px;
+            color: #6B5C9C; 
+        }
+        main img {
+            max-width: 100%;
+            margin: 10px 0;
+            display: block;
+        }
+         h1 {
+        text-align: center ;
+        }
+        h2 {
+        text-align: center ;
+        }
+        footer {
+            background-color: #C7E8FF;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            background-image:url("/media/alumno/341E-EC89/Pagina emprendimiento/honeBackgrounds.jpeg"); 
+            bottom: 0;
+            width: 100%;
+            color: #5C4B2B;
+        }
+        footer a {
+            color: #5C7692;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            margin: 20px 0;
+            background-color: #FFFCE8; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+            border-radius: 10px; 
+            overflow: hidden;
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            color: #5C4B2B; 
+        }
+        th {
+            background-color: #FFE8A1;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #FFF9D9; 
+        }
+        tr:hover {
+            background-color: #FFDFA0; 
+        }
+        td {
+            border-bottom: 1px solid #FFC785; 
+        }
